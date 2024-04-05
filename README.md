@@ -1,6 +1,6 @@
 # vm_restore
 
-I build this script to quickly and easily restore backups of my KVM virtualized machines into my homelab structure.
+I build this script to quickly and easily restore backups of my KVM virtualized machines in my homelab structure.
 
 ## :hammer_and_wrench: How to install: :hammer_and_wrench:
 
